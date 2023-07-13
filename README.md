@@ -36,9 +36,9 @@ You can replace `--dataset` with `{mit-states, ut-zappos, cgqa, clevr}`.
 If you use this code, please cite
 ```
 @article{lu2022decomposed,
-  title={Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning},
-  author={Lu, Xiaocheng and Liu, Ziming and Guo, Song and Guo, Jingcai},
-  journal={arXiv preprint arXiv:2211.10681},
-  year={2022}
+  title={Combating Data Imbalances in Federated Semi-supervised Learning with Dual Regulators},
+  author={Sikai Bai, Shuaicheng Li, Weiming Zhuang, Kunlin Yang, Jun Hou, Shuai Yi, Shuai Zhang, Junyu Gao, Jie Zhang, Song Guo},
+  journal={arXiv preprint arXiv:2307.05358},
+  year={2023}
 }
 ```
